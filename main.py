@@ -1,0 +1,5 @@
+from repositories.CategorieRepository import CategorieRepository
+from services.CategorieServices import CategorieServices
+
+CategorieServices.print_all_categories()
+
